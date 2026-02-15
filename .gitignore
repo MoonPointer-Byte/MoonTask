@@ -1,0 +1,7 @@
+/build
+/dist
+/MoonTask.spec
+/moontask_data.json
+/moontask_db.json
+/moontask_v2.json
+/__pycache__
